@@ -2,7 +2,9 @@
 sidebar_position: 3
 ---
 
-# Create a Blog Post
+# Urls
+
+
 
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
 
